@@ -38,13 +38,12 @@ Geben sie ein, oder mehrere Ports ein!
 
     1-1000
 ## Ausgabe ##
-![AusgabeVoll](https://github.com/Netzknoten/KreyITSec_vulnRecon/assets/114874531/042c504f-7c01-40c0-aa76-f46e86f4421f)
 
-
-
-
-
+![HTB_TestErfolgreich](https://github.com/Netzknoten/KreyITSec_vulnRecon/assets/114874531/6c3494f3-2372-4a68-b50a-d0667cdc62df)
+###
 
 Sie können mit dem Export Butten die Ausgabe in das Lokale Verzeichnis exportieren.
 
-![Bildschirmfoto_2023-09-03_19-28-31](https://github.com/Netzknoten/KreyITSec_vulnRecon/assets/114874531/8f3bc130-b3d0-4dc2-b882-ffac5daa9aa6)
+![Export](https://github.com/Netzknoten/KreyITSec_vulnRecon/assets/114874531/f0970f34-8d0e-400f-87ab-f8ca3b0b41c7)
+
+
