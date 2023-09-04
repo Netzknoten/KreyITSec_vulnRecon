@@ -7,7 +7,7 @@
 
 
 ## Willkommen ##
-Dies ist eine Python Anwendung. Der Krey-iTSec VulnRecon ist ein Tool, zum erfassen von Schwachstellen. Geben sie zB. eine IP-Adresse, oder Port-Nummern ein. In der Ausgabe werden alle gesammelten Informationen angezeigt. Es kann auch per Knopfdruck in eine Textdatei exportiert werden. 
+Dies ist eine Python Anwendung. Der Krey-iTSec VulnRecon ist ein Tool, zum erfassen von Schwachstellen. Geben sie zB. eine IP-Adresse, Domain, oder Port-Nummern ein. In der Ausgabe werden alle gesammelten Informationen angezeigt. Es kann auch per Knopfdruck in eine Textdatei exportiert werden. Auf diesem Repository finden sie eine Sammlung von Verschiedenen Versuchen und Testergebnissen, z.B in Form von Screenshots.
 
 ![GanzerBildschirmVSCode](https://github.com/Netzknoten/KreyITSec_vulnRecon/assets/114874531/8413c76d-f18f-4974-bb6c-1829bbed0b03)
 
